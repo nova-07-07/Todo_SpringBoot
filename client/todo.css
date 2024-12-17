@@ -1,0 +1,31 @@
+.main{
+    background-color: burlywood;
+    margin: 30px;
+    width: 300px;
+    height: 280px;
+    padding: 30px;
+    border-radius: 10px;
+    border-color: brown;
+    border: 10px solid;
+    background-image: url('./img.jpg');
+    background-size: cover; 
+    background-position: center;
+    
+}
+.main_dis{
+    background-color: coral;
+    margin-top: -360px;
+    margin-left: 500px;
+    border-radius: 10px;
+    border-color: rgb(0, 49, 117);
+    border: 10px solid;
+}
+
+.savebtn{
+    border-radius: 20px;
+    border-color: black;
+    border: 4px solid;
+    padding: 10px 20px;
+    background-color: khaki;
+    font-family: fantasy;
+}
